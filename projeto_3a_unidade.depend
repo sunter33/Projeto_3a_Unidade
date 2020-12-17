@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1608186316 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\main.cpp
+	<iostream>
+	<vector>
+	"sculptor.h"
+	"figurageometrica.h"
+	"putbox.h"
+	"putellipsoid.h"
+	"putsphere.h"
+	"putvoxel.h"
+	"cutbox.h"
+	"cutellipsoid.h"
+	"cutsphere.h"
+	"cutvoxel.h"
+	"interpretador.h"
+
+1608187184 c:\users\sunter\desktop\c projects\projeto_3a_unidade\sculptor.h
+
+1608186954 c:\users\sunter\desktop\c projects\projeto_3a_unidade\figurageometrica.h
+	"sculptor.h"
+
+1608186760 c:\users\sunter\desktop\c projects\projeto_3a_unidade\putbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608187184 c:\users\sunter\desktop\c projects\projeto_3a_unidade\putellipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608187184 c:\users\sunter\desktop\c projects\projeto_3a_unidade\putsphere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608187184 c:\users\sunter\desktop\c projects\projeto_3a_unidade\putvoxel.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608167922 c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608186800 c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutellipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608186856 c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutsphere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608186885 c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutvoxel.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1608187039 c:\users\sunter\desktop\c projects\projeto_3a_unidade\interpretador.h
+	<vector>
+	<string>
+	"figurageometrica.h"
+
+1608187301 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutbox.cpp
+	"cutbox.h"
+	"sculptor.h"
+	"figurageometrica.h"
+	<iostream>
+
+1608187851 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutellipsoid.cpp
+	"cutellipsoid.h"
+	"sculptor.h"
+	"figurageometrica.h"
+	<cmath>
+	<iostream>
+
+1608187350 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutsphere.cpp
+	"cutsphere.h"
+	<cmath>
+	"sculptor.h"
+	"figurageometrica.h"
+	<iostream>
+
+1608187851 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\cutvoxel.cpp
+	"cutvoxel.h"
+	"sculptor.h"
+	"figurageometrica.h"
+	<iostream>
+
+1608185976 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\interpretador.cpp
+	"interpretador.h"
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	<string.h>
+	<vector>
+	"putbox.h"
+	"putellipsoid.h"
+	"putsphere.h"
+	"putvoxel.h"
+	"cutbox.h"
+	"cutellipsoid.h"
+	"cutsphere.h"
+	"cutvoxel.h"
+
+1608187288 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\putbox.cpp
+	"putbox.h"
+	"sculptor.h"
+	"figurageometrica.h"
+	<iostream>
+
+1608187350 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\putellipsoid.cpp
+	"putellipsoid.h"
+	"sculptor.h"
+	"figurageometrica.h"
+	<cmath>
+	<iostream>
+
+1608187350 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\putsphere.cpp
+	"putsphere.h"
+	"sculptor.h"
+	<cmath>
+	<iostream>
+	"figurageometrica.h"
+
+1608187350 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\putvoxel.cpp
+	"putvoxel.h"
+	"sculptor.h"
+	"figurageometrica.h"
+	<iostream>
+
+1608187851 source:c:\users\sunter\desktop\c projects\projeto_3a_unidade\sculptor.cpp
+	"sculptor.h"
+	<cmath>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iostream>
+	<queue>
+
